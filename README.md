@@ -39,19 +39,19 @@ Response
       {
          "product_id":1,
          "quantity":1,
-         “price”":2.00,
+         "price":2.00,
          "vat":0.20
       },
       {
          "product_id":2,
          "quantity":5,
-         “price”":“7.50”,
+         "price":7.50,
          "vat":0.75
       },
       {
          "product_id":3,
          "quantity":1,
-         “price”":3.00,
+         "price":3.00,
          "vat":0.30
       }
    ]

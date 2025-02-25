@@ -95,7 +95,7 @@ the following sample body request:
 
 There is a docker-compose.yml file used to:
 
-- build the application
+- build and start the application exposed to 9090:9090
 - start the postgres DB
 - mount the db scripts
 - mount the build.sh and test.sh scripts
